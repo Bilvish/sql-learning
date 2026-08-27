@@ -291,4 +291,4 @@ LIMIT 2;
 -- =====================================================
 
 -- Run this ONLY when you want to delete the practice table.
--- DROP TABLE employees;
+-- DROP TABLE employees;  
